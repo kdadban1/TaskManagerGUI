@@ -1,18 +1,24 @@
-## Getting Started
+# Task Manager GUI
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A personal desktop **task manager** built using **JavaFX**, allowing users to add, view, and manage a list of tasks in a simple GUI interface.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📝 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Add new tasks with a description
+- Display all existing tasks in a dialog box
+- Clear all tasks in one click
+- Mark tasks as completed
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Built With
 
-## Dependency Management
+- Java 21
+- JavaFX 21
+- IntelliJ IDEA / VS Code
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+
+
