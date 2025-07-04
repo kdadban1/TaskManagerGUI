@@ -1,0 +1,14 @@
+# Ignore build output
+/out/
+/bin/
+
+# Ignore JavaFX SDK
+/lib/javafx-sdk-*/
+
+# Ignore IDE settings
+.idea/
+*.iml
+.vscode/
+
+# macOS junk
+.DS_Store
